@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+}
+
+li a{
+  color: black;
+  padding: 5px;
+  font-size: 19px;
+}
+
+img{
+  border-radius: 10px;
+}

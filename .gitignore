@@ -1,0 +1,6 @@
+virtualenv/
+*.pyc
+instance/
+links.txt
+upgrade_db.sh
+start.sh
